@@ -2,7 +2,7 @@
 
 # Arsh
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=6B7280&center=true&vCenter=true&width=500&lines=Software+Developer;AI%2FML+Engineer;Backend+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=6B7280&center=true&vCenter=true&width=500&lines=Software+Developer;AI%2FML+Engineer;Backend+Developer;CSE+@+SRMIST)
 
 </div>
 
